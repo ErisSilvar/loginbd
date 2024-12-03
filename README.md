@@ -1,2 +1,0 @@
-# loginbd
-Login em php.
